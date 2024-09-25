@@ -1,10 +1,10 @@
-# Estudos em HTML e CSS
+# Estudos em HTML, CSS e JavaScript
 
 Este repositório foi criado para fins de estudos e desenvolvimento de projetos práticos utilizando HTML e CSS. Todos os projetos aqui presentes são parte do meu aprendizado contínuo e serão incluídos no meu portfólio.
 
 ## Objetivo
 
-- 💡 Melhorar minhas habilidades com HTML e CSS
+- 💡 Melhorar minhas habilidades com HTML, CSS e JS.
 - 💻 Criar projetos que demonstrem meu conhecimento e criatividade
 - 📈 Registrar meu progresso e aprendizado ao longo do tempo
 
@@ -21,6 +21,7 @@ Aqui estão alguns dos projetos que você encontrará neste repositório:
 
 - **HTML5**
 - **CSS3** (incluindo Flexbox e Grid)
+- **JavaScript**
 
 ## Como Contribuir
 
