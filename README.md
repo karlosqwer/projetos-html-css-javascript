@@ -1,7 +1,5 @@
 # Estudos em HTML e CSS
 
-![Estudos em HTML e CSS] 
-
 Este repositório foi criado para fins de estudos e desenvolvimento de projetos práticos utilizando HTML e CSS. Todos os projetos aqui presentes são parte do meu aprendizado contínuo e serão incluídos no meu portfólio.
 
 ## Objetivo
