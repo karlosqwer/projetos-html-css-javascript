@@ -1,12 +1,14 @@
 # Estudos em HTML e CSS
 
+![Estudos em HTML e CSS](https://media.giphy.com/media/3o6nV5Xdn7XTg5veRq/giphy.gif) <!-- Insira um GIF sutil e relacionado a desenvolvimento aqui -->
+
 Este repositório foi criado para fins de estudos e desenvolvimento de projetos práticos utilizando HTML e CSS. Todos os projetos aqui presentes são parte do meu aprendizado contínuo e serão incluídos no meu portfólio.
 
 ## Objetivo
 
-- Melhorar minhas habilidades com HTML e CSS
-- Criar projetos que demonstrem meu conhecimento e criatividade
-- Registrar meu progresso e aprendizado ao longo do tempo
+- 💡 Melhorar minhas habilidades com HTML e CSS
+- 💻 Criar projetos que demonstrem meu conhecimento e criatividade
+- 📈 Registrar meu progresso e aprendizado ao longo do tempo
 
 ## Projetos
 
