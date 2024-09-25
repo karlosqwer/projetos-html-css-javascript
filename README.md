@@ -1,6 +1,7 @@
 # Estudos em HTML e CSS
 
-![Estudos em HTML e CSS](https://media.giphy.com/media/3o6nV5Xdn7XTg5veRq/giphy.gif) <!-- Insira um GIF sutil e relacionado a desenvolvimento aqui -->
+![Estudos em HTML e CSS] 
+(https://giphy.com/gifs/dreamworks-cute-mood-please-KEf7gXqvQ8B3SWnUid) 
 
 Este repositório foi criado para fins de estudos e desenvolvimento de projetos práticos utilizando HTML e CSS. Todos os projetos aqui presentes são parte do meu aprendizado contínuo e serão incluídos no meu portfólio.
 
