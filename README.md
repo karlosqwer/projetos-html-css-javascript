@@ -1,4 +1,4 @@
-# Estudos em HTML, CSS e JavaScript
+# Projetos em HTML, CSS e JavaScript
 
 Este repositório foi criado para fins de estudos e desenvolvimento de projetos práticos utilizando HTML e CSS. Todos os projetos aqui presentes são parte do meu aprendizado contínuo e serão incluídos no meu portfólio.
 
